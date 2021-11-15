@@ -1,0 +1,64 @@
+{
+    "best-product": [
+        {
+            "id":1,
+            "kode":"K-01",
+            "nama":"Sate Babi",
+            "harga": 20000,
+            "is_ready": true,
+            "gambar": "sate-babi.jpg"
+        },
+        {
+            "id":2,
+            "kode":"K-02",
+            "nama":"Nasi Goreng",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-goreng.jpg"
+        }
+    ],
+    "products": [
+        {
+            "id":1,
+            "kode":"K-01",
+            "nama":"Sate Babi",
+            "harga": 20000,
+            "is_ready": true,
+            "gambar": "sate-babi.jpg"
+        },
+        {
+            "id":2,
+            "kode":"K-02",
+            "nama":"Nasi Goreng",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-goreng.jpg"
+        },
+        {
+            "id":3,
+            "kode":"K-03",
+            "nama":"Nasi Rames",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "nasi-rames.jpg"
+        },
+        {
+            "id":4,
+            "kode":"K-04",
+            "nama":"Mie Ayam Bakso",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "mie-ayam-bakso.jpg"
+        },
+        {
+            "id":5,
+            "kode":"K-05",
+            "nama":"Mie Goreng",
+            "harga": 10000,
+            "is_ready": true,
+            "gambar": "mie-goreng.jpg"
+        }
+    ],
+    "keranjangs": [],
+    "pesanans": []
+}
